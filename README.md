@@ -1,1 +1,1 @@
-# name_pattern
+# C program to display name in start(*) pattern
